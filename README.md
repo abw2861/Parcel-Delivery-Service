@@ -1,5 +1,4 @@
-# c950PythonProject
-c950 complete project
+
 
 SCENARIO
 A parcel delivery service needs to determine an efficient route and delivery distribution for their Daily Local Deliveries (DLD) 
@@ -8,7 +7,7 @@ The route has three trucks, two drivers, and an average of 40 packages to delive
 Each package has specific criteria and delivery requirements.
 
 
-For this project, I implemented a greedy algorithm solution, where all 40 packages are delivered on time while also meeting each package's specific requirements. The total combined distance traveled by the trucks is required to stay under 140 miles.
+For this project, I implemented a greedy algorithm solution, where all 40 packages are delivered on time while also meeting each package's specific requirements. The total combined distance traveled by the trucks is required to stay under 140 miles and is implemented successfully.
 
 
 ASSUMPTIONS
